@@ -19,7 +19,7 @@ Under the following framework, SMRT tackle the problem statement:
 - Deployment: Show obtained evualuation results 
 - Feedback: Improvement proposals
 
-(Reference: Data Science Methodology [Reference]: https://www.coursera.org/learn/data-science-methodology)
+[Reference]: https://www.coursera.org/learn/data-science-methodology) - Data Science Methodology by IBM.
 
 SMRT considered solution approaches:
 ## Getting Started
@@ -28,5 +28,5 @@ Follow these steps to get SMRT up and running on your local machine:
 
 1. **Installation:** [instructions on how to install]
 2. **Dependencies:** In file requirements.txt. Using python3: ```pip install -r requirements.txt ```
-3. **Usage:** [simple example or guide on how to use]
+3. **Usage:** [simple example or guide on how to use.]
 
