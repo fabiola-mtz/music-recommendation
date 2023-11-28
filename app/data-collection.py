@@ -1,5 +1,5 @@
 import pandas as pd
-import spotipy 
+import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 
 def get_playlist_data(playlist_id, access_token):
