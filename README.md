@@ -1,9 +1,8 @@
-# Music recommendation Tool 
+# Playlist generator [genP]
+[genP] is being developed using Python as main programming language,  ML concepts and Spotify API to consume required information.
 ## Problem Statement
-
-SMRT (Spotify Music Recommendation Tool) is being developed to address the following problem:
-
- This project aims to use Python as main programming language, Machine Learning implemented concepts and Spotify API to consume required information.
+Brand new Spotify playlist creation and populates it with the 10 most similar songs to a given song.
+This project aims to automate the manual process of playlist creation if I know what I want to listen to but a big amount of songs from a given repertory. 
 ## Solution Overview
 
 Under the following framework, SMRT tackle the problem statement:
@@ -19,9 +18,9 @@ Under the following framework, SMRT tackle the problem statement:
 - Deployment: Show obtained evualuation results 
 - Feedback: Improvement proposals
 
-[Reference]: https://www.coursera.org/learn/data-science-methodology) - Data Science Methodology by IBM.
+[Reference]: https://www.coursera.org/learn/data-science-methodology - Data Science Methodology by IBM.
 
-SMRT considered solution approaches:
+genP considered solution approaches:
 ## Getting Started
 
 Follow these steps to get SMRT up and running on your local machine:
